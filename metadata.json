@@ -1,0 +1,9 @@
+{
+  "name": "Remix PromptDJ",
+  "description": "Consola DJ generativa con motor de IA en tiempo real, rack DSP de bajas latencias, matriz de steering ponderada y instant scene snapshots",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
